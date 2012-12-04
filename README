@@ -1,0 +1,3 @@
+A simple script to convert .html documents to .pdf files.
+I download a folder from the internet which contains problems of Liu Rujia's problemset 'AOAPC',but I found that the .pdf files was not so good to be read in my kindle,because the content was not text but something like pictures.At the same time, I have the total problems of UVA onlinejudge in my harddisk,So I write a script to convert problems in the volume 'AOAPC I' to pdf files.With the help of DocumentConverter.py,I reach the goal.
+Anything about DocumentConverter.py,please check https://github.com/prehistoricpenguin/pyodconverter.git
